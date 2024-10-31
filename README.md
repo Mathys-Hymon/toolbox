@@ -1,0 +1,1 @@
+The project includes a gravity-switching mode, which is still a work in progress, but it already features an FPS interaction system for handling objects, easily adaptable to other projects. A detailed README is provided within the project.
